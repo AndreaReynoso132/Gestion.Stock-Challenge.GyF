@@ -1,0 +1,12 @@
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\bin\Debug\net8.0\StockManagement.Core.deps.json
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\bin\Debug\net8.0\StockManagement.Core.dll
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\bin\Debug\net8.0\StockManagement.Core.pdb
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.AssemblyInfoInputs.cache
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.AssemblyInfo.cs
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.sourcelink.json
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.dll
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\refint\StockManagement.Core.dll
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\StockManagement.Core.pdb
+C:\Users\TRABAJOS\Source\Repos\Gestion.Stock-Challenge.GyF\StockManagement.Core\obj\Debug\net8.0\ref\StockManagement.Core.dll

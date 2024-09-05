@@ -1,0 +1,7 @@
+@StockManagement.WebAPI_HostAddress = http://localhost:5175
+
+GET {{StockManagement.WebAPI_HostAddress}}/StockManagement
+
+Accept: application/json
+
+###
